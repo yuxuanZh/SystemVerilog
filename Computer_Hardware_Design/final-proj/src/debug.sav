@@ -1,0 +1,57 @@
+[*]
+[*] GTKWave Analyzer v3.3.34 (w)1999-2012 BSI
+[*] Fri Dec 19 18:17:50 2014
+[*]
+[dumpfile] "/home/yz2580/John/Project/final-proj/waveform.vcd"
+[dumpfile_mtime] "Fri Dec 19 18:16:50 2014"
+[dumpfile_size] 236037455
+[savefile] "/home/yz2580/Computer_HW_Design/project/final-proj/src/debug.sav"
+[timestart] 595
+[size] 1600 837
+[pos] -1 -1
+*-5.000000 707 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.DUT.
+[treeopen] top.DUT.rob.ram_done_2r_4w.
+[treeopen] top.DUT.rob.ram_done_2r_4w.genblk1[22].
+[sst_width] 210
+[signals_width] 508
+[sst_expanded] 1
+[sst_vpaned_height] 235
+@28
+top.DUT.rob.clk
+@24
+top.DUT.rob.ins1_pc_i[31:0]
+@28
+top.DUT.rob.ins1_valid_i
+@24
+top.DUT.rob.ins2_pc_i[31:0]
+@28
+top.DUT.rob.ins2_valid_i
+@24
+top.DUT.rob.head[4:0]
+top.DUT.rob.tail[4:0]
+@28
+top.DUT.rob.WB_en1_o
+@24
+top.DUT.rob.WB_target1_o[4:0]
+@22
+top.DUT.rob.WB_data1_o[31:0]
+@28
+top.DUT.rob.WB_en2_o
+@24
+top.DUT.rob.WB_target2_o[4:0]
+@22
+top.DUT.rob.WB_data2_o[31:0]
+@24
+top.DUT.rob.ins1_src0[4:0]
+top.DUT.rob.ins1_src1[4:0]
+top.DUT.rob.ins2_src0[4:0]
+top.DUT.rob.ins2_src1[4:0]
+@28
+top.DUT.rob.rst
+@24
+top.DUT.rob.target1[4:0]
+top.DUT.rob.target2[4:0]
+[pattern_trace] 1
+[pattern_trace] 0

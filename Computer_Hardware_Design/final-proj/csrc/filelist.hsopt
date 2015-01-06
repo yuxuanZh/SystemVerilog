@@ -1,0 +1,7 @@
+rmapats_mop.o: rmapats.m
+	@/sim/synopsys64/vcs/amd64/bin/cgmop1 -pic -gen_obj rmapats.m rmapats_mop.o
+
+rmapats.o: rmapats.c
+	@$(CC) $(CFLAGS) -c  -o rmapats.o rmapats.c
+
+HSOPT_OBJS=rmapats_mop.o rmapats.o
